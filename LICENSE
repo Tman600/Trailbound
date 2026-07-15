@@ -1,0 +1,46 @@
+Trailbound License (MIT-based, with Attribution Requirement)
+Copyright (c) 2026 Taylor [replace with your preferred name/handle], created with Claude (Anthropic)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to
+deal in the Software without restriction, including without limitation the
+rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+sell copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. Retention of notice. The above copyright notice, this permission notice,
+   and the Attribution Requirement below must be included in all copies or
+   substantial portions of the Software.
+
+2. Attribution Requirement. Any distribution, fork, or derivative work of
+   this Software -- modified or unmodified -- must include a clearly visible
+   credit in its README or equivalent primary documentation, stating that it
+   originates from Trailbound, created by Taylor [replace with your
+   preferred name/handle] with the assistance of Claude (Anthropic). This
+   credit must name both the original creator and Anthropic, and may not be
+   removed, obscured, or diminished in size or visibility in any subsequent
+   fork, modification, or redistribution. A line such as the following
+   satisfies this requirement:
+
+     "Based on Trailbound, created by [name/handle] with Claude (Anthropic).
+      Original: [link to your repository]"
+
+3. No implied endorsement. This attribution requirement is solely for
+   credit; it does not imply that Anthropic has reviewed, endorses, or is
+   in any way responsible for this Software or any fork of it.
+
+Note on AI-assisted authorship: This Software was developed through a
+collaborative process combining human direction (concept, design decisions,
+feature requirements, and review) with AI-assisted code generation via
+Claude. The legal treatment of copyright in AI-assisted works is still
+evolving in most jurisdictions; this license reflects the creator's claim
+of authorship over the work as a whole on the basis of that human creative
+direction, without asserting a specific legal conclusion on every component.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.

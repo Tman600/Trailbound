@@ -1,0 +1,8 @@
+# Python dependency -- installed via `pip install -r requirements.txt`
+rich>=13.0
+
+# Optional local AI (narration + free-text actions) runs on Ollama or a
+# llama.cpp server -- both are separate system applications, not Python
+# packages, so pip can't install them here. Run `python setup_ai.py` to
+# install Ollama (if needed) and pull the default model (gemma3:4b), or
+# see README.md for manual setup and the llama.cpp alternative.
