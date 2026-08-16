@@ -9,7 +9,7 @@ Terminal, Linux terminals.
 
 ## Credits & license
 
-Created by Taylor [replace with your preferred name/handle], with the
+Created by TMan600, with the
 assistance of Claude (Anthropic). Licensed under the terms in `LICENSE`
 (MIT-based, open source) -- forks and derivative works are welcome, but
 must keep a visible credit to both the original creator and Anthropic. See
